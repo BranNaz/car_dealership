@@ -1,0 +1,13 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "askForPassword": true,
+            "driver": "PostgreSQL",
+            "connectString": "postgres://blyjsfcd:bmzI4kxQLXRJ_Wdk7J0Uy1BXgi4bkjkF@salt.db.elephantsql.com/blyjsfcd",
+            "name": "car_dealership"
+        }
+    ]
+}
